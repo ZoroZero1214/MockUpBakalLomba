@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeLogIn">50sp</dimen>
+    <dimen name="marginLeftLogIn">120dp</dimen>
+    <dimen name="marginLeftButton">70dp</dimen>
+    <dimen name="marginLeftSignUp">173dp</dimen>
+    <dimen name="marginTopSepakBola">20dp</dimen>
+    <dimen name="marginTopBasket">20dp</dimen>
+    <dimen name="marginTopVoli">20dp</dimen>
+    <dimen name="marginTopFutsal">20dp</dimen>
+    <dimen name="marginTopAirSoftGun">20dp</dimen>
+</resources>

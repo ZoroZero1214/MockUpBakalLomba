@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">"Mock Up Bakal Lomba "</string>
+    <string name="logIn">"Log In \n As"</string>
+    <string name="btnTeam">Team</string>
+    <string name="btnGuest">Guest"</string>
+    <string name="signUp">Sign Up</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtPass">Password</string>
+    <string name="edtConfPass">Confirm Password</string>
+    <string name="btnDaftar">Daftar</string>
+    <string name="edtGuest">Guest Name</string>
+    <string name="btnSepakBola">Sepak Bola</string>
+    <string name="btnBasket">Basket</string>
+    <string name="btnVoli">Voli</string>
+    <string name="btnFutsal">Futsal</string>
+    <string name="btnAirSoftGun">Air Soft Gun</string>
+
+</resources>
